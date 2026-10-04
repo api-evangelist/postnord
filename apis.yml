@@ -35,11 +35,13 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Tracking
   - Public APIs
+  - Shipping
+  - Postal
+  - Parcel
 apis:
   - name: PostNord
     description: "Provides information about parcels in transport for Sweden and Denmark"
     humanURL: https://developer.postnord.com/api
-    baseURL: https://developer.postnord.com/api
     tags:
       - Tracking
     properties:
